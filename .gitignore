@@ -1,0 +1,6 @@
+.venv
+videos
+frames
+.history
+detections
+config.json

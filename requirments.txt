@@ -1,0 +1,14 @@
+ultralytics
+opencv-python
+matplotlib 
+numpy 
+torch 
+torchvision
+psycopg2-binary
+google-api-python-client
+django
+pytube
+yt-dlp
+transformers
+
+
