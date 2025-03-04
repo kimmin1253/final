@@ -10,5 +10,7 @@ django
 pytube
 yt-dlp
 transformers
+accelerate
+timm
 
 
