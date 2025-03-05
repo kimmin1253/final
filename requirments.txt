@@ -12,5 +12,9 @@ yt-dlp
 transformers
 accelerate
 timm
+selenium
+pillow
+tqdm
+webdriver-manager
 
 

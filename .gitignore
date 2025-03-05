@@ -4,3 +4,8 @@ frames
 .history
 detections
 config.json
+train_img_notpam
+train_img_pam
+images
+bing_images
+cropped_faces
